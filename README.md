@@ -1425,6 +1425,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Small electronics enthutiast.
 - [![github-alt][github-img]](https://github.com/hafpaf)
 
+### Haimantika
+- Electronics and communication student
+- Google action developer
+- [![github-alt][github-img]](https://github.com/Haimantika)
+
 ### Hakim
 
 - IT Enthusiast
